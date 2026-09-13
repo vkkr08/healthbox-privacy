@@ -40,4 +40,4 @@ If this policy is updated, the "Last updated" date above will be revised. Contin
 
 ## Contact
 
-For questions about this privacy policy, contact: [your email address here]
+For questions about this privacy policy, contact: vanikrishna08@gmail.com
